@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coaching-methodens on My New Hugo Site</title>
+    <link>http://example.org/coaching-methoden/</link>
+    <description>Recent content in Coaching-methodens on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 11:41:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/coaching-methoden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NLP™</title>
+      <link>http://example.org/coaching-methoden/nlp/</link>
+      <pubDate>Wed, 01 Nov 2017 11:41:42 +0000</pubDate>
+      
+      <guid>http://example.org/coaching-methoden/nlp/</guid>
+      <description># Was ist NLP?   NEURO steht für die Tatsache, dass jedes menschliche Verhalten und jeder Körperzustand im Gehirn durch neuronale Verknüpfungen repräsentiert ist.     LINGUISTISCH bedeutet, dass wir über diese Verknüpfungen mit Hilfe unserer Sprache kommunizieren können.     PROGRAMMIEREN bezeichnet den Vorgang, mit Hilfe der Sprache Gedanken zu starten, welche die Einbahnstraße automatischer und eingefahrener Kommunikationsmuster auflösen. Sie werden in neue kreative Wege verwandelt, so dass ein vielfältigeres Verhalten und positiveres Befinden möglich ist.</description>
+    </item>
+    
+  </channel>
+</rss>
