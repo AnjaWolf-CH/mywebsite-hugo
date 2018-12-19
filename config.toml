@@ -187,7 +187,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["override.css"]
   custom_js  = []
 
   # Publication types.
@@ -302,13 +302,13 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Coaching Ziele"
+  url = "#coaching-ziele"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "NLP&trade;"
+  url = "/coaching-methoden/nlp"
   weight = 3
 
 [[menu.main]]
@@ -322,7 +322,7 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "#contact"
   weight = 6
 

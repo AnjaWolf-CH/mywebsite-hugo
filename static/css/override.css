@@ -1,0 +1,14 @@
+/*************************************************
+ *  Hero Widget
+ *  grösse des Bildes anpassen (Standard 3em 0)
+ **************************************************/
+
+.hero-overlay {
+  padding: 10em 0;
+}
+
+.img150
+{
+float: left;
+padding: 3px;
+}
