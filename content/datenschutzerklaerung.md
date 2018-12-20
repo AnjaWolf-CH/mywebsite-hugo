@@ -53,6 +53,6 @@ Der Schutz Ihrer personenbezogenen Daten erfolgt durch entsprechende organisator
 Ihre Daten werden nicht länger aufbewahrt als dies zur Erfüllung unserer vertraglichen bzw. gesetzlichen Verpflichtungen und zur Abwehr allfälliger Haftungsansprüche erforderlich sind.
 
 9. **Aktualität und Änderung dieser Datenschutzerklärung**       
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018. Durch die Weiterentwicklung meiner Website und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf der Website unter https://anjawolf-coaching.ch/wp-content/uploads/2018/09/Coaching_DSGVO_Website_Datenschutzerklärung_AWO.pdf von Ihnen abgerufen und ausgedruckt werden.
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018. Durch die Weiterentwicklung meiner Website und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf der Website unter https://anjawolf-coaching.ch/wp-content/img/Coaching_DSGVO_Website_Datenschutzerklärung_AWO.pdf von Ihnen abgerufen und ausgedruckt werden.
 
-**Download:**  <span style="color: #999999;"><strong><a style="color: #999999;" href="https://anjawolf-coaching.ch/wp-content/uploads/2018/09/Coaching_DSGVO_Website_Datenschutzerklärung_AWO.pdf">Datenschutzerklärung</a></strong></span>
+**Download:** [Datenschutzerklärung](/img/Coaching_DSGVO_Website_Datenschutzerklärung_AWO.pdf)
