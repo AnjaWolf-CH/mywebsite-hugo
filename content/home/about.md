@@ -25,4 +25,4 @@ Als Ihr Online- und Offline Coach begleite ich Sie sicher bei Ihrem Veränderung
 
 Mithilfe lösungsorientierter und systemischer Methoden aus dem NLP oder wingwave®, lösen wir Emotionsblockaden und hinderliche Glaubenssätze auf. Aktivieren, die für Sie wichtigen Ressourcen, bringen Sie wieder in eine innere Balance, entdecken Ihr vorhandenes Potential, z.B. mit Hilfe der Numerologie, so dass Sie mit positiven Emotionen und neuer Klarheit Ihren Weg erfolgreich weiter gehen können.
 
-Führen wir doch einfach ein Kennlern-Gespräch – danach entscheiden Sie, wie wir starten wollen.#
+Führen wir doch einfach ein Kennlern-Gespräch – danach entscheiden Sie, wie wir starten wollen.
