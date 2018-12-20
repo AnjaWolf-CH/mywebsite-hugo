@@ -1,24 +1,57 @@
----
-id: 16
-title: Das Coaching
-date: 2017-01-06T17:38:56+00:00
-author: info@anjawolf-coaching.ch
-layout: page
-guid: https://anjawolf-coaching.ch/?page_id=16
-ampforwp-amp-on-off:
-  - default
----
-### <span style="font-size: 14pt;">Methoden</span>
++++
+title = "Das Coaching"
+subtitle = ""
+
+date = 2016-04-20T00:00:00
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Anja Wolf"]
+
+tags = ["Coaching"]
+summary = ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
+
+# Set captions for image gallery.
+
+[[gallery_item]]
+album = "gallery"
+image = "IMG_0001-klein"
+caption = "Default"
++++
+
+# Methoden
 
 NLP Formate, systemisches Coaching, wingwave Coaching, Kurzzeitformate
 
-### <span style="font-size: 14pt;">Begleitung</span>
+## Begleitung
 
 Online-Offline Coaching:
   
 Persönliches Einzelcoaching in meinen eigenen Coaching-Räumen, oder vor Ort sowie per Skype-Videokonferenz und telefonisch.
 
-### <span style="font-size: 14pt;">Ablauf</span>
+## Ablauf
 
 Dem ersten Termin geht eine kostenlose telefonische oder persönliche Besprechung vor. So finden wir heraus, ob ich Ihnen in Ihrem gewünschten Thema Unterstützung bieten kann.
   
@@ -28,19 +61,17 @@ Danach erfolgt in einer ersten persönlichen Sitzung eine detaillierte Standortb
   
 Dauer: ca. 1 &#8211; 2 Std.
 
-<img class="alignnone size-medium wp-image-26" src="https://anjawolf-coaching.ch/wp-content/uploads/2017/01/Aufsteller-Coach_Bild-klein-bearbeitet_2016-300x199.jpg" alt="" width="300" height="199" />
-
 In der nächsten Sitzung arbeiten wir an Ihrem gewählen Thema. Mithilfe lösungsorientierter und systemischer Methoden aus dem NLP oder <span class="color_20"><strong>w</strong>ing<strong>w</strong>ave<sup>®</sup></span>, lösen wir z.B. Emotionsblockaden und hinderliche Glaubenssätze auf. Aktivieren, die für Sie wichtigen Ressourcen, bringen Sie wieder in eine innere Balance, so dass Sie mit positiven Emotionen und neuer Klarheit Ihren Weg erfolgreich weiter gehen können. Dabei bestimmen Sie das Tempo.
 
 Je nach Umfang des definierten Themas benötigen wir zwischen  1,5 bis 3 Std. Danach lassen wir alles wirken und Sie entscheiden dann, ob und wie Sie weitermachen möchten.
 
-### Mentoring
+## Mentoring
 
 Nach einem abgeschlossenen ersten Coaching-Prozess wünschen sich Coachees gerne eine vorübergehende Begleitung. Ziel eines solchen Mentorings ist dann weitere Unterstützung bei beruflichen oder privaten Themen, die ich leicht und schnell z.B.  &#8222;online&#8220; (Skype, Telefon) und &#8222;offline&#8220; (im persönlichen Treffen) begleite.
 
-<img class="alignnone size-medium wp-image-82" src="https://anjawolf-coaching.ch/wp-content/uploads/2017/01/IMG_0001-klein-300x199.jpg" alt="" width="300" height="199" srcset="https://anjawolf-coaching.ch/wp-content/uploads/2017/01/IMG_0001-klein.jpg 300w, https://anjawolf-coaching.ch/wp-content/uploads/2017/01/IMG_0001-klein-240x160.jpg 240w" sizes="(max-width: 300px) 100vw, 300px" />
+{{< gallery >}}
 
-### Abgrenzung zu Psychotherapie und Beratung
+## Abgrenzung zu Psychotherapie und Beratung
 
 Coaching ist keine Psychotherapie und kann eine solche nicht ersetzen. Voraussetzung bei den Klienten ist eine normale psychische und physische Belastbarkeit.
 

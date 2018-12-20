@@ -1,0 +1,58 @@
+<footer class="site-footer">
+
+<style>
+  ul.hm1 {
+      text-align: center;
+      margin: 0;
+      padding: 0;
+  }
+  li.hm2 {
+      /* Textfluss ändern */
+      /*float:left; */
+      /* Aufzählungspunkte entfernen */
+      list-style-type:none;
+      /* Abstand */
+      margin-right:10px;
+
+      padding: 5px 10px;
+      font-size: 0.75rem;
+      display: inline;
+    }
+    </style>
+
+    <ul class="hm1">
+        {{ with .Site.GetPage "impressum.md" }}
+        <li class="hm2">
+            {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        </li>
+        {{ end }} 
+        {{ with .Site.GetPage "agb.md" }}
+        <li class="hm2">
+            {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        </li>
+        {{ end }} 
+        {{ with .Site.GetPage "datenschutzerklaerung.md" }}
+        <li class="hm2">
+            {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        </li>
+        {{ end }} 
+    </ul>
+    <div style="clear:both"></div>
+
+
+  <p class="powered-by">
+    {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
+
+    Anja Wolf Coaching - St. Gallen - Schweiz - Tel. +41 79 946 98 33 - info@anjawolf-coaching.ch
+
+    {{ if ne .Type "docs" }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>

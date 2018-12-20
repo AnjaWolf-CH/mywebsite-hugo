@@ -30,7 +30,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -66,11 +66,11 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "info@anjawolf-coaching.ch"
   address = "Dietlistrasse 41, 9000 St. Gallen, Schweiz"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
+  # office_hours = """
+  # Monday 10:00 to 13:00\\
+  # Wednesday 09:00 to 10:00\\
+  # Otherwise email to book an appointment
+  # """
   phone = " +41 71 588 01 58"
   skype = "asdfasdf"
   telegram = ""
@@ -131,9 +131,9 @@ enableGitInfo = false
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2. Jan, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -307,8 +307,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "NLP&trade;"
-  url = "/coaching-methoden/nlp"
+  name = "Blog"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
@@ -362,6 +362,9 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+
+[languages.de]
+  languageCode = "de-ch"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]

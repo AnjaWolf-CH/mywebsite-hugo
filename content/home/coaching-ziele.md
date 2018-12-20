@@ -44,3 +44,4 @@ NLP lehrt Sie, sich auf drei Wahrnehmungsebenen kreativ, selbstsicher und ressou
 ### Erfolgs Coaching
 
 Die **w**ing**w**ave®-Methode ist ein Leistungs- und Emotions-Coaching, das für den Klienten spürbar und schnell in wenigen Sitzungen zum Abbau von Leistungsstress und zur Steigerung von Kreativität, Mentalfitness und Konfliktstabilität führt.
+
