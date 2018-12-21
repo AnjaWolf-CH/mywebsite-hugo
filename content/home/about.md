@@ -5,24 +5,55 @@ active = true
 date = 2018-12-17T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 40
 
 +++
 
-# Online-Offline Coaching
+Seit vielen Jahren bin ich im Account Management tätig. Damit ich performen kann, arbeite ich kontinuierlich an meiner Persönlichkeit. Dies gibt mir die nötige Gelassenheit, Freude und Kraft mich immer wieder erfolgreich Neuem zu stellen, mit unterschiedlichsten Menschen als auch neuen Situationen so umzugehen, dass auch ich mich dabei wohl fühle. 
 
-Denn jeder braucht einen Coach
+## Qualifizierungen
+  * Lizenz. NLP-Coach
+  * Lizenz. NLP-Master Practitioner
+  * Lizenz. NLP-Practitioner <br />
+<img  class="img150" src="/img/NLP-LOGO-farbig_SOCLOG1L-63.jpg" alt="NLP Logo">
+<img  class="img150" src="/img/NLP-LOGO_SOCLOG2S-65.jpg" alt="NLP Logo">
+<br style="clear: both;">
+Anerkannt durch die Society of Neuro-Linguistic-ProgrammingTM
 
-Der Arbeitsalltag ist kompakt und verläuft immer schneller und, das wird noch intensiver – willkommen in der digitalen Transformation. Immer weniger Zeit für Zwischenmenschliches, kaum noch Möglichkeit sich ein ernstes Feedback einzuholen. Machen Sie es wie die Sportler – nehmen Sie sich einen Coach!
+  * Zertifiz. wingwave&copy;-Coach<br />
+<img  class="img150" src="/img/wingwave-80.jpg" alt="Wingwave Logo">
+<br style="clear: both;">
+Anerkannt durch die ECA – European Coaching Assosication e.V.
 
-Erhalten und erzielen Sie
+  * NLP-Practitioner (INLPTA)<br />
+<img  class="img150" src="/img/DVNLP-Logo-137.jpg" alt="INLPTA">
+<br style="clear: both;">
+Anerkannt durch The International NLP Trainer Association – INLPTA/DVNLP
 
-* präzises Erfolgs Coaching
-* schnelle Angst- und Stressreduktion
-* neue kreative Dynamik durch positive Emotionen
+## Zertifizierungen
 
-Als Ihr Online- und Offline Coach begleite ich Sie sicher bei Ihrem Veränderungsprozess und stelle mich auch gerne einfach nur für ein gezieltes Feedback an Ihre Seite.
+Ich erfülle die internationalen Lizenzierungskriterien im Basic Level als ECA Coach.<br />
+<img  class="img150" src="/img/ECA-1994-80.jpg" alt="INLPTA">
+Die European Coaching Association (ECA) ist ein europaweiter Berufsverband professioneller Coaches. Seit 1994 setzt die ECA Qualitätsmaßstäbe im Bereich Executive und Personal Coaching. Seine Mitglieder beraten und coachen Unternehmen und deren Führungskräfte, Teams, Manager, Personalentwickler und Consultants bei der zielorientierten Weiterbildung und bei der Realisierung ihrer Unternehmensziele.
+<br style="clear: both;">
 
-Mithilfe lösungsorientierter und systemischer Methoden aus dem NLP oder wingwave®, lösen wir Emotionsblockaden und hinderliche Glaubenssätze auf. Aktivieren, die für Sie wichtigen Ressourcen, bringen Sie wieder in eine innere Balance, entdecken Ihr vorhandenes Potential, z.B. mit Hilfe der Numerologie, so dass Sie mit positiven Emotionen und neuer Klarheit Ihren Weg erfolgreich weiter gehen können.
+Die ECA-Lizenzierungen garantieren eine qualifizierte Ausbildung und Berufserfahrung in den einzelnen Bereichen des Coachings. Damit bringt die ECA Transparenz und Seriosität in einen Markt, in dem die Berufsbezeichnung Coach nicht geschützt ist.
 
-Führen wir doch einfach ein Kennlern-Gespräch – danach entscheiden Sie, wie wir starten wollen.
+Coaches, die Mitglied im Euroepan Coaching Association Berufsverband sind, verfügen in der Regel nicht nur über eine akademische Ausbildung, sondern zusätzlich zu ihrer Coach-Qualifikation und dem Nachweis psychosozialer Kompetenz noch über langjährige Berufserfahrung in den unterschiedlichsten Bereichen.
+Quelle: European Coaching Association – www.european-coaching-association.de
+
+## Weiterbildungen
+
+  * Dipl. Systemische SCM-Coach & Beraterin / CTAS
+  * Dipl. Systemische SCM-Business & Management Coach / CTAS
+  * Dipl. Systemische TeamCoach & Trainerin / CTAS
+  * Dipl. Systemische OnlineCoach / CTAS
+  * Dipl. Systemische AufstellerCoach / CTAS
+  * Studium der Numerologie (einer der ältesten Geheimwissenschaften, die sich mit der Zahlendeutung beschäftigt)
+
+## Ehrenamtliches
+
+Mentorin beim St. Galler Tandem 50+ Mentoring-Programm
+Bewerbungscoaching- und Training für Stellensuchende
+www.tandem-sg.ch
+

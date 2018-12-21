@@ -31,7 +31,7 @@
             {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
         </li>
         {{ end }} 
-        {{ with .Site.GetPage "datenschutzerklaerung.md" }}
+        {{ with .Site.GetPage "privacy.md" }}
         <li class="hm2">
             {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
         </li>

@@ -1,0 +1,10 @@
+# Redirect default Netlify subdomain to primary domain
+http://blissful-archimedes-b38cf2.netlify.com/* http://hugo.anjawolf-coaching.ch/:splat 301!
+
+# Alte Website umleiten
+/kompetenz              /   301
+/ihre-coaching-ziele    /   301
+/coaching-methoden      /   301
+/wingwave               /   301
+/coaching-methoden/nlp  /   301
+/kontakt                /   301

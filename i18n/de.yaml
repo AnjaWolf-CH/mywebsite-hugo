@@ -109,6 +109,12 @@
 - id: contact_message
   translation: Nachricht
 
+- id: contact_agree
+  translation: Sie erklären sich damit einverstanden, dass Ihre Daten zur Bearbeitung Ihres Anliegens verwendet werden. Weitere Informationen und Widerrufshinweise finden Sie in der
+
+- id: contact_privacy
+  translation: Datenschutzerklärung
+
 - id: contact_send
   translation: Versenden
 

@@ -298,22 +298,22 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "/"
   weight = 1
-
-[[menu.main]]
-  name = "Ihr Coach"
-  url = "#ihr-coach"
-  weight = 2
 
 [[menu.main]]
   name = "Coaching Ziele"
   url = "#coaching-ziele"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Blog"
   url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Ihr Coach"
+  url = "#about"
   weight = 4
 
 #[[menu.main]]
