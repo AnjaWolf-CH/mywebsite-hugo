@@ -60,7 +60,7 @@ Es gibt drei zusammenwirkende Wahrnehmungsbereiche, welche in der zwischenmensch
   * das, was und wie ein Mensch denkt, also die innere Verarbeitung sinnlicher Erfahrungen in Bildern, innerem Dialog und Empfindungen,
   * und das, was ein Mensch glaubt, also seine inneren Werte, Glaubensmuster und seine Identifikationen.
 
-NLP lehrt Sie, sich auf diesen drei Wahrnehmungsebenen kreativ, selbstsicher und ressourcevoll zu bewegen, wenn Sie professionell kommunizieren. So sprechen Sie immer die Gesamtpersönlichkeit Ihrer Gesprächspartner an. Erleben Sie, wie viel Spaß Kommunikation dann gerade auch mit Menschen macht, welche vielleicht eine ganz andere Art, einen anderen Denkstil oder ein anderes Temperament haben als Sie. Sie werden feststellen, dass Sie im wahrsten Sinn des Wortes &#8222;viel besser ankommen&#8220;, denn: <strong>Der Sinn der Kommunikation ist die Reaktion des Gesprächspartners!</strong>
+NLP lehrt Sie, sich auf diesen drei Wahrnehmungsebenen kreativ, selbstsicher und ressourcevoll zu bewegen, wenn Sie professionell kommunizieren. So sprechen Sie immer die Gesamtpersönlichkeit Ihrer Gesprächspartner an. Erleben Sie, wie viel Spaß Kommunikation dann gerade auch mit Menschen macht, welche vielleicht eine ganz andere Art, einen anderen Denkstil oder ein anderes Temperament haben als Sie. Sie werden feststellen, dass Sie im wahrsten Sinn des Wortes &#8222;viel besser ankommen&#8220;, denn: **Der Sinn der Kommunikation ist die Reaktion des Gesprächspartners!**
 
 
 ## Coaching und mentales Selbstcoaching
@@ -70,7 +70,8 @@ Weiterhin eröffnen die NLP-Interventionen Ihnen die Möglichkeiten, mit vielfä
 
 ## Verbreitung der Methode
 
-Inzwischen wird NLP auf der ganzen Welt gelehrt und angewendet. Die Methode gilt heutzutage als sehr gut beforscht, in Österreich erkennen auch das Gesundheitsministerium NLP als wirkungsvolle Therapiemethode an. Der <a class="external-link-new-window" title="Öffnet externen Link in neuem Fenster" href="http://www.dvnlp.de" target="_blank" rel="noopener">Deutsche Verband für Neurolinguistisches Programmieren</a> – der DVNLP – ist zurzeit Deutschlands größter Methodenverband.
+Inzwischen wird NLP auf der ganzen Welt gelehrt und angewendet. Die Methode gilt heutzutage als sehr gut beforscht, in Österreich erkennen auch das Gesundheitsministerium NLP als wirkungsvolle Therapiemethode an. Der [Deutsche Verband für Neurolinguistisches Programmieren](http://www.dvnlp.de) – der DVNLP – ist zurzeit Deutschlands größter Methodenverband.
 
-Quelle: Besser-Siegmund-Institut GmbH &#8211; Mönckebergstr. 11, 20095 Hamburg</span>
+Quelle: [Besser-Siegmund-Institut GmbH &#8211; Mönckebergstr. 11, 20095 Hamburg](https://besser-siegmund.de/)
+Mehr Infos: [Wikipedia](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
   

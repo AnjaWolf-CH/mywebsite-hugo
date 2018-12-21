@@ -9,9 +9,9 @@ Anja Wolf
 Dietlistrasse 41  
 CH &#8211; 9000 St. Gallen
 
-+41 71 588 01 58 </br>
-info@anjawolf-coaching.ch </br>
-anjawolf-coaching.ch </br>
++41 71 588 01 58 <br />
+info@anjawolf-coaching.ch <br />
+anjawolf-coaching.ch <br />
 
 ### Disclaimer:
 
