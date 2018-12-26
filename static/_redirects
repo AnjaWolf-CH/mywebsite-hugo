@@ -4,7 +4,7 @@ http://blissful-archimedes-b38cf2.netlify.com/* http://hugo.anjawolf-coaching.ch
 # Alte Website umleiten
 /kompetenz              /   301
 /ihre-coaching-ziele    /   301
-/coaching-methoden      /   301
-/wingwave               /   301
-/coaching-methoden/nlp  /   301
+/coaching-methoden      /#posts   301
+/wingwave               /#posts   301
+/coaching-methoden/nlp  /#posts   301
 /kontakt                /   301
