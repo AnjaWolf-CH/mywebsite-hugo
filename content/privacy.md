@@ -1,19 +1,8 @@
 ---
-title: Impressum
+title: Datenschutzerklärung
 date: 2017-01-06T18:53:32+00:00
 author: info@anjawolf-coaching.ch
 ---
-+++
-title = "Datenschutzerklärung"
-
-date = 2018-06-28T00:00:00
-draft = false
-
-# [header]
-# image = ""
-# caption = ""
-+++
-
 1.  **Name und Kontaktdaten des für die Verarbeitung Verantwortlichen**</br>
 Diese Datenschutz-Information gilt für die Datenverarbeitung durch:</br>
 Anja Wolf Coaching &#8211; Email: info@anjawolf-coaching.ch &#8211; Telefon: +41 71 588 01 58.
@@ -68,5 +57,5 @@ Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018. Durc
 
 **Download:** [Datenschutzerklärung](/img/Coaching_DSGVO_Website_Datenschutzerklärung_AWO.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTY4NDg5MV19
+eyJoaXN0b3J5IjpbLTIzMDk2MDAzXX0=
 -->
