@@ -14,6 +14,7 @@ subtitle = ""
 weight = 5
 
 +++
+
 # Online-Offline Coaching
 
 Denn jeder braucht einen Coach

@@ -32,7 +32,7 @@ Anerkannt durch The International NLP Trainer Association – INLPTA/DVNLP
 
 ## Zertifizierungen
 
-Ich erfülle die internationalen Lizenzierungskriterien im Basic Level als ECA Coach.<br />
+Ich erfülle die internationalen Lizenzierungskriterien im Basic Level als ECA Coach.<br>
 <img  class="img150" src="/img/ECA-1994-80.jpg" alt="INLPTA">
 Die European Coaching Association (ECA) ist ein europaweiter Berufsverband professioneller Coaches. Seit 1994 setzt die ECA Qualitätsmaßstäbe im Bereich Executive und Personal Coaching. Seine Mitglieder beraten und coachen Unternehmen und deren Führungskräfte, Teams, Manager, Personalentwickler und Consultants bei der zielorientierten Weiterbildung und bei der Realisierung ihrer Unternehmensziele.
 <br style="clear: both;">
