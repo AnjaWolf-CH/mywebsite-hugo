@@ -6,7 +6,7 @@ date = 2018-12-17T00:00:00
 
 # Order that this section will appear in.
 weight = 40
-
+ 
 +++
 
 Seit vielen Jahren bin ich im Account Management tätig. Damit ich performen kann, arbeite ich kontinuierlich an meiner Persönlichkeit. Dies gibt mir die nötige Gelassenheit, Freude und Kraft mich immer wieder erfolgreich Neuem zu stellen, mit unterschiedlichsten Menschen als auch neuen Situationen so umzugehen, dass auch ich mich dabei wohl fühle. 
