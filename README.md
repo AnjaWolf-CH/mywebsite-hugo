@@ -19,11 +19,18 @@ Hier können die Bilder/PDFs gespeichert werden: https://github.com/AnjaWolf-CH/
 * Bild mit Text:    ``![Alt](/img/ECA-1994-300x246.jpg "Maus Rollover")``
 * Bild mit Grösse:  ``![Alt](/img/ECA-1994-300x246.jpg=60x50)``
 
+## Content in Visual Studio Code ändern
+### Git installieren
+Download: https://git-scm.com/download
+
+### Visual Studio Code installieren
+Download: https://code.visualstudio.com/download
 Git support in VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol#_git-support
 
-Git installieren
-Download: https://git-scm.com/download
+
+
+
 
 
 ## Markdown Help
